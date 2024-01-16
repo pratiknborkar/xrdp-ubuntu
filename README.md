@@ -6,19 +6,18 @@
 sudo apt update
 ```
 
-#install the xfce and xfce-goodies packages
+### install the xfce and xfce-goodies packages
 
 ```
 sudo apt install xfce4 xfce4-goodies -y
 ```
 
-#Install xrdp 
+### Install xrdp 
 ```
 sudo apt install xrdp -y
 ```
-##Start xrdp service
+### Start xrdp service
 
 ```
 sudo systemctl status xrdp
 ```
-
