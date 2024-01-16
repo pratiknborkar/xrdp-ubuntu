@@ -6,7 +6,7 @@
 sudo apt update
 ```
 
-### install the xfce and xfce-goodies packages
+### Install the xfce and xfce-goodies packages
 
 ```
 sudo apt install xfce4 xfce4-goodies -y
